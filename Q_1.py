@@ -12,7 +12,7 @@ print("Ramesh'Dearness Allowance is : ", (dr_allow))
 
 # rent allowance
 rt_allow = basic_salary*20/100
-print("Ramesh's Rent Allowance is : ", (rt_allow))
+print("Ramesh's Rnt Allowance is : ", (rt_allow))
 
 #Gross Salary
 Gross_salary = (basic_salary + dr_allow + rt_allow)
